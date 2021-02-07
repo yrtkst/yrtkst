@@ -1,5 +1,5 @@
-![yrtkst's github stats](https://github-readme-stats.vercel.app/api?username=yrtkst)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrtkst)](https://github.com/anuraghazra/github-readme-stats)
+![yrtkst's github stats](https://github-readme-stats.vercel.app/api?username=yrtkstcount_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrtkst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
