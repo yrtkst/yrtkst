@@ -1,4 +1,4 @@
-![yrtkst's github stats](https://github-readme-stats.vercel.app/api?username=yrtkst&count_private=true)
+![yrtkst's github stats](https://github-readme-stats.vercel.app/api?username=yrtkst&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrtkst&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
